@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: bradenton-fl-34207
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
