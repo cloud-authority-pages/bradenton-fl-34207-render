@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bradenton-fl-34207.onrender.com/sitemap.xml
+Sitemap: https://bradenton-fl-34207.onrender.com/bed-bug-exterminator-bradenton/sitemap.xml
